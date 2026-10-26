@@ -1,3 +1,0 @@
-# Normal Shop App
-
-My first shopping app built while learning React.git add README.md
