@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Comfortaa:wght@300..700&display=swap');
+
+
+@import "tailwindcss";
+
+
+@theme {
+    --font-acme: "Acme", sans-serif;
+    --font-comfortaa: "Comfortaa", sans-serif;
+    --color-custom: oklch(90.1% 0.058 230.902);
+    --color-customs: oklch(67.3% 0.182 276.935);
+}
